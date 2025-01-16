@@ -1,0 +1,3 @@
+# Modeling and Transforming Text Data for ML
+
+In this lab, you will transform an Amazon Reviews dataset from JSON format into a structured format suitable for Machine Learning applications. You will perform data extraction, feature creation, and data storage, and integrate text embeddings with a PostgreSQL vector database. This will enable efficient retrieval of similar items or reviews using L2 Euclidean distance.
