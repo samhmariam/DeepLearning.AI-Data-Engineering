@@ -1,5 +1,5 @@
 DBHOST=
-DBUSER = postgresuser
-DBPASSWORD = adminpwrd
-DBPORT = 5432
-DBNAME = postgres
+DBUSER = 
+DBPASSWORD = 
+DBPORT = 
+DBNAME = 

@@ -1,5 +1,5 @@
 DBHOST=
-DBUSER = admin
-DBPASSWORD = adminpwrd
-DBPORT = 3306
-DBNAME = classicmodels
+DBUSER = 
+DBPASSWORD = 
+DBPORT = 
+DBNAME = 
